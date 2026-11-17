@@ -8,6 +8,7 @@
 | ARI | 阿里 |
 | ARCHERC5 | 暗黑狙击手 |
 | ARLECCHINO | 丑角 |
+| BANDSMAN | 乐师 |
 | BEASTMASTER | 驯兽师 |
 | CARMILLA | 吸血鬼 |
 | DRYAD | 德律阿德斯 |
