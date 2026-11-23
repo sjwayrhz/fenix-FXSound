@@ -16,6 +16,7 @@
 | GRIMREAPER | 死神 |
 | HIMIKO | 卑弥呼 |
 | MERLIN | 梅林 |
+| MONK | 僧侣 |
 | MWINDO | 女巫师 |
 | RIVA | 亡灵法师 |
 | SEALBEE | 德米安守护者西尔维（暂定） |
